@@ -7,3 +7,4 @@ dist/
 .env
 google-services.json
 GoogleService-Info.plist
+docs/AI_TOOLING.md
